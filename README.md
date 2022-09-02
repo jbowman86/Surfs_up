@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to review a dataset pertaining to weather conditions that has been stored in a SQLite database.  The database can be obtained via the link below:
 
-LINK TO Hawaii.sqlite
+[Hawaii Database Link](https://github.com/jbowman86/Surfs_up/blob/d97e27cbc367f2983bf908eb2fc17ba4b529e5fd/hawaii.sqlite)
 
 The overall aim of this project is to provide insight regarding the weather in Oahu, Hawaii prior to construction of a new surf and ice cream shop.  The investor is most interested in temperatures during the months of June and December in order to determine if the shop can be sustainable all year.
 
