@@ -12,7 +12,11 @@ In order to explore the data in the SQLite database, SQLAlchemy was used to conn
 
 ## Results
 
-The summary statistics for Oahu, Hawaii during the months of June and December are presented below:
+The code for analysing the temperature of Oahu, Hawaii for the months of June and December can be found via the follwing link:
+
+INSERT LINK TO PYTHON CODE FILE
+
+The summary statistics for Oahu, Hawaii during June and December are presented below:
 
 June Statistics for Temperature – LINK TO IMAGE OF JUNE RESULTS
 
@@ -30,17 +34,19 @@ In summary, even though temperatures recorded in December seem to vary more than
 
 To gain further understanding of the weather in Oahu, Hawaii, two additional analyses were completed.  The findings of these analyses in included below.
 
-Analysis of Precipitation
+### Analysis of Precipitation
 
 The analysis focuses on the temperature and rainfall from six different weather stations On Oahu, Hawaii from 2010-2017 and June and December specifically.  The results of this analysis is depicted below.
 INSERT IMAGE OF PRECIPITATION RESULTS
-o There are less data points for December (1405 data points) than June (1574 data points).
-o There was a greater range for rainfall quantity in December than June.
-o June’s mean rainfall was approximately 0.13 inches and the median was about 0.02 inches.
-o December’s mean rainfall was approximately 0.21 inches and the median was about 0.03 inches.
-o Maximum rainfall in December was 6.42 inches and 4.43 in June.
-o Minimum rainfall was 0 inches for both June and December. 
-Analysis by Weather Station
+
+  o There are less data points for December (1405 data points) than June (1574 data points).
+  o There was a greater range for rainfall quantity in December than June.
+  o June’s mean rainfall was approximately 0.13 inches and the median was about 0.02 inches.
+  o December’s mean rainfall was approximately 0.21 inches and the median was about 0.03 inches.
+  o Maximum rainfall in December was 6.42 inches and 4.43 in June.
+  o Minimum rainfall was 0 inches for both June and December. 
+
+### Analysis by Weather Station
 
 Analysis of June and December temperatures by weather stations was completed in order to help determine the optimal geographically location for the shop within Oahu.  
 
