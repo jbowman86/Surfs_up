@@ -16,13 +16,17 @@ The code for analysing the temperature of Oahu, Hawaii for the months of June an
 
 Code for weather analysis - [Surf's Up Code](https://github.com/jbowman86/Surfs_up/blob/6cda79aa068b15daf57a6a85d776523e42dbf18b/SurfsUp_Challenge.ipynb)
 
-INSERT LINK TO PYTHON CODE FILE
-
 The summary statistics for Oahu, Hawaii during June and December are presented below:
 
-June Statistics for Temperature – LINK TO IMAGE OF JUNE RESULTS
+June Statistics for Temperature 
 
-December Statistics for Temperature – LINK TO IMAGE OF DECEMBER RESULTS
+
+![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/June_Temp_Stats.png)
+
+December Statistics for Temperature  
+
+![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/Dec_Temp_Stats.png)
+
 
 1. Based on count of 1,700 temperatures in the month of June over the course of seven years, the mean temperature was about 75oF, minimum of 64oF degrees, and maximum of 85oF degrees.  Based on count of 1,517 temperatures in the month of December over the course of seven years, the mean temperature was about 71oF, minimum of 56oF degrees, and maximum of 83oF degrees.
 
@@ -39,18 +43,18 @@ To gain further understanding of the weather in Oahu, Hawaii, two additional ana
 ### Analysis of Precipitation
 
 The analysis focuses on the temperature and rainfall from six different weather stations On Oahu, Hawaii from 2010-2017 and June and December specifically.  The results of this analysis is depicted below.
-INSERT IMAGE OF PRECIPITATION RESULTS
 
-  o There are less data points for December (1405 data points) than June (1574 data points).
-  o There was a greater range for rainfall quantity in December than June.
-  o June’s mean rainfall was approximately 0.13 inches and the median was about 0.02 inches.
-  o December’s mean rainfall was approximately 0.21 inches and the median was about 0.03 inches.
-  o Maximum rainfall in December was 6.42 inches and 4.43 in June.
-  o Minimum rainfall was 0 inches for both June and December. 
+![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/June_Dec_Precipitation_Stats.png)
+
+    o There are less data points for December (1405 data points) than June (1574 data points).
+    o There was a greater range for rainfall quantity in December than June.
+    o June’s mean rainfall was approximately 0.13 inches and the median was about 0.02 inches.
+    o December’s mean rainfall was approximately 0.21 inches and the median was about 0.03 inches.
+    o Maximum rainfall in December was 6.42 inches and 4.43 in June.
+    o Minimum rainfall was 0 inches for both June and December. 
 
 ### Analysis by Weather Station
 
 Analysis of June and December temperatures by weather stations was completed in order to help determine the optimal geographically location for the shop within Oahu.  
 
-INSERT IMAGE OF STATION RESULTS
-
+![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/Station_Temps_June_and_Dec.png)
