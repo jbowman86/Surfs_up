@@ -12,7 +12,7 @@ In order to explore the data in the SQLite database, SQLAlchemy was used to conn
 
 ## Results
 
-The code for analysing the temperature of Oahu, Hawaii for the months of June and December can be found via the follwing link:
+The code for analysing the temperature of Oahu, Hawaii for the months of June and December can be found via the following link:
 
 Code for weather analysis - [Surf's Up Code](https://github.com/jbowman86/Surfs_up/blob/6cda79aa068b15daf57a6a85d776523e42dbf18b/SurfsUp_Challenge.ipynb)
 
