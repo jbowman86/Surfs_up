@@ -36,13 +36,13 @@ December Statistics for Temperature
 
 ## Summary
 
-In summary, even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream. The average temperatures in June and December only differ by approximately 4oF.  December's median temperature, with the highest frequency recorded across a span of the seven years analysed, was about 72oF.  This temperature was at least double the frequency of the next highest recorded temperatures, 75oF and 67oF respectively. It is recommended that the company open the surf and ice cream shop based on these preliminary findings.
+In summary, even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream. The average temperatures in June and December only differ by approximately 4 degrees Fahrenheit.  December's median temperature, with the highest frequency recorded across a span of the seven years analysed, was about 72 degrees Fahrenheit.  This temperature was at least double the frequency of the next highest recorded temperatures, 75 degrees Fahrenheit and 67 degrees Fahrenheit respectively. It is recommended that the company open the surf and ice cream shop based on these preliminary findings.
 
-To gain further understanding of the weather in Oahu, Hawaii, two additional analyses were completed.  The findings of these analyses in included below.
+To gain further understanding of the weather in Oahu, Hawaii, two additional analyses were completed.  The findings of these analyses are included below.
 
 ### Analysis of Precipitation
 
-The analysis focuses on the temperature and rainfall from six different weather stations On Oahu, Hawaii from 2010-2017 and June and December specifically.  The results of this analysis is depicted below.
+This analysis focuses on the rainfall experienced in Oahu, Hawaii during the months of June and December for the time period of 2010-2017.  The results of this analysis is depicted below.
 
 ![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/June_Dec_Precipitation_Stats.png)
 
@@ -55,6 +55,8 @@ The analysis focuses on the temperature and rainfall from six different weather 
 
 ### Analysis by Weather Station
 
-Analysis of June and December temperatures by weather stations was completed in order to help determine the optimal geographically location for the shop within Oahu.  
+Analysis of June and December temperatures by weather stations was completed in order to help determine the optimal geographically location for the shop within Oahu.  Due the large number of weather stations (over 32,000), a more comprehensive analysis is recommended to determine the best location for the new shop.  At this time, this is beyind the scope of the current analysis
 
 ![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/Station_Temps_June_and_Dec.png)
+
+In summation, both the percipitation and weather stations analyses concur that it is recommended to open the new shop in Oahu, Hawaii.
