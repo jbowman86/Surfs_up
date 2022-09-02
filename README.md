@@ -28,11 +28,11 @@ December Statistics for Temperature
 ![](https://github.com/jbowman86/Surfs_up/blob/1c3668b1f7cea037ba945d1e67f7b085a4eca46d/Resources/Dec_Temp_Stats.png)
 
 
-1. Based on count of 1,700 temperatures in the month of June over the course of seven years, the mean temperature was about 75oF, minimum of 64oF degrees, and maximum of 85oF degrees.  Based on count of 1,517 temperatures in the month of December over the course of seven years, the mean temperature was about 71oF, minimum of 56oF degrees, and maximum of 83oF degrees.
+1. Based on a count of 1,700 temperatures in the month of June between the years 2010-2017, the mean temperature was about 75 degrees Fahrenheit, minimum of 64 degrees Fahrenheit, and maximum of 85 degrees Fahrenheit.  Based on a count of 1,517 temperatures in the month of December from 2010-2017, the mean temperature was about 71 degrees Fahrenheit, minimum of 56 degrees Fahrenheit, and maximum of 83 degrees Fahrenheit.
 
-2. The December temperature appears to demonstrate a greater range than those observed during June.  This was attributed to a larger difference between the maximum and minimum temperatures during the month of December compared to June. 
+2. The December temperatures appear to demonstrate a greater range than those observed during June.  This was attributed to a larger difference between the maximum and minimum temperatures during the month of December compared to June. 
 
-3. There are 183 more temperatures analyzed for June statistics than December statistics for the seven year period, however the amount of variance between the two data sets was observed to be relatively similar between the two months (standard deviation of 3.26 for June vs. standard deviation of 3.75 for December).
+3. There are 183 more temperatures analyzed for June statistics than December statistics for the time period between 2010-2017.  However, the amount of variance between the two data sets was observed to be relatively similar between the two months (standard deviation of 3.26 for June vs. standard deviation of 3.75 for December).
 
 ## Summary
 
